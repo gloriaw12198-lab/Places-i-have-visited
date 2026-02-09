@@ -10,7 +10,7 @@ Place.prototype.getLandmarks = function () {
   return this.landmarks.join(", ");
 };
 
-// PLACES DATA
+// PLACES DETAILS
 const places = [
   new Place(
     "Mombasa",
@@ -54,7 +54,7 @@ function showPlace(place) {
   document.getElementById("detail-image").src = place.image;
 }
 
-// Default view
+// details
 showPlace(places[0]);
 
 places.forEach(function (place) {
