@@ -7,8 +7,10 @@ It has the day each places was visited.
  Name:Gloria Wanja
  Email:gloria.wanja@student.moringaschool.com
  ## Set up instructions
- 
-
+ Clone the repository:
+git clone https://github.com/gloriaw12198-lab/Places-i-have-visited.git
+Open index.html in your browser to view the project.
+Ensure your browser supports JavaScript for full functionality
  ## Technologies used
  Html
  CSS
