@@ -1,4 +1,10 @@
-
+header{
+    font-size: xx-large;
+    color:white
+    margin: 25px;
+    text style:itallics
+    border: dotted solid black;
+}
 * {
   margin: 0;
   padding: 0;
