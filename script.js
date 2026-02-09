@@ -4,7 +4,6 @@ function Place(location, landmarks, timeOfYear, notes) {
   this.landmarks = landmarks;
   this.timeOfYear = timeOfYear;
   this.notes = notes;
-  
 }
 
 Place.prototype.getLandmarks = function () {
